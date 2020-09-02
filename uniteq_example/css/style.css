@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*base*/
+a {
+	display: block;
+	text-decoration: none;
+}
+
+/*header*/
+header {
+	height: 50px;
+	background-color: #234794;
+}
+
+.logo {
+	color: #fff;
+	margin: 0 10px;
+	font-size: 20px;
+}
+
+.nav {
+	font-size: 20px;
+}
+
+.nav li {
+	margin: 0px 10px;
+}
+
+.nav a {
+	color: #fff;
+}
+
+/*main*/
+.mainimg {
+	width: 100%;
+}
+
+.texts {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 10px;
+}
+
+.text {
+	width: 30%;
+}
